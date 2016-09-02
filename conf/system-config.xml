@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- warning:	This configuration file, at runtime support dynamic updates,Switch configuration in init.properties -->
+<XMLSystemConfig>
+	<!-- 配置1开始-->
+	<ModuleConfig Name="module_config_1" Description="模块1配置">
+		<ConfigItem>
+			<Description>配置项1</Description>
+			<Name>item1</Name>
+			<Value>value1</Value>
+		</ConfigItem>
+		<ConfigItem>
+			<Description>配置项2</Description>
+			<Name>item2</Name>
+			<Value>value2</Value>
+		</ConfigItem>
+	</ModuleConfig>
+	<!-- 配置1结束 -->
+</XMLSystemConfig>
